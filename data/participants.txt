@@ -1,5 +1,4 @@
 # Add your name here !
 
-Alice Demo
-Bob Test
+Jerome Illgner
 Derek Todd
